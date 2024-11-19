@@ -1,5 +1,5 @@
 # UML-Editor (UML編輯器)
-  >The simple UML editor was written in JAVA. Writting in OOP.
+  >The simple UML editor was written in JAVA. Using OOP concept.
 
 User can add new class、usecase and associaiton line object.
 
