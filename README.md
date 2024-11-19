@@ -1,8 +1,5 @@
 # UML-Editor (UML編輯器)
-## SE6029 物件導向分析與設計  (NCU OOAD course)
-### 助教期末會抓抄襲，請大家要注意
-
-The simple UML editor was written in JAVA..
+  >The simple UML editor was written in JAVA. Writting in OOP.
 
 User can add new class、usecase and associaiton line object.
 
